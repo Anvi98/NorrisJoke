@@ -11,7 +11,7 @@ Small Web app with Vanilla JS. Works with an external API.
 
 ## Live Demo
 
-http://anvialex.me/bookListApp/
+http://anvialex.me/NorrisJoke/
 
 ![screenshot](screen1.png)
 
